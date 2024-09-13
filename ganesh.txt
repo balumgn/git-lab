@@ -1,0 +1,15 @@
+Asus@MUKESH MINGW64 ~/rrt/dev/ganeshms79 (wed_branch)
+$ git cherry-pick 29bfeb5415023ec7bc86e6a66e458299de25d064
+On branch wed_branch
+Your branch is up to date with 'origin/wed_branch'.
+
+You are currently cherry-picking commit 29bfeb5.
+  (all conflicts fixed: run "git cherry-pick --continue")
+  (use "git cherry-pick --skip" to skip this patch)
+  (use "git cherry-pick --abort" to cancel the cherry-pick operation)
+
+nothing to commit, working tree clean
+The previous cherry-pick is now empty, possibly due to conflict resolution.
+If you wish to commit it anyway, use:
+
+    git commit --allow-empty
