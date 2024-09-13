@@ -1,0 +1,3 @@
+PS C:\Users\Mrudula\document\git-new\git-new> git cherry-pick 7e1bc886c050ade276a43eb6cbcc4048abc499c7
+error: commit 7e1bc886c050ade276a43eb6cbcc4048abc499c7 is a merge but no -m option was given.
+fatal: cherry-pick failed
